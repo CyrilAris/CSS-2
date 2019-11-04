@@ -1,0 +1,80 @@
+body{
+background-color: #f6f6f6;
+}
+html {
+background-color: #f6f6f6;
+}
+#painting {
+width: 400px;
+height: 400px;
+background-color: #ffe4a8;
+margin-top: 30px;
+margin-left: auto;
+margin-right: auto;
+box-shadow: 5px 5px 6px #808080;
+}
+#toprow{
+height:290px;
+}
+#bigbox{
+width: 290px;
+height: 290px;
+}
+#topdivider{
+width: 10px;
+height: 290px;
+}
+.right{
+float: right;
+}
+.left{
+float: left;
+}
+.red{
+background-color: red;
+}
+.black{
+background-color: black;
+}
+.blue{
+background-color: #0883CA;
+}
+.yellow{
+  background-color: yellow;
+}
+#divider2{
+width: 100px;
+height: 10px;
+}
+#divider3{
+width: 400px;
+height: 10px;
+}
+.mediumbox{
+width: 100px;
+height: 140px;
+}
+.squarebox{
+width: 100px;
+height:100px;
+}
+.rectangle{
+width: 260px;
+height: 100px;
+}
+#divider4{
+width: 10px;
+height: 100px;
+}
+#divider5{
+    width: 10px;
+    height: 100px;
+}
+.minibox{
+    width: 20px;
+    height: 45px;
+}
+#divider6{
+    height: 10px;
+    width: 20px;
+}
